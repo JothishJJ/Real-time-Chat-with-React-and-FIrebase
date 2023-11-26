@@ -1,0 +1,19 @@
+.signout {
+    display: flex;
+    position: fixed;
+    background-color: #f1f1f1;
+    width: 100%;
+    justify-content: end;
+    padding: 1rem 0;
+}
+
+.signout-btn {
+    margin-right: 2rem;
+}
+
+.title {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
